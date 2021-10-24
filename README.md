@@ -1,2 +1,2 @@
 # proj-formulario
- Formúlario de inscrição para Devs
+ Formúlario de inscrição para Devs. @Gustavo Neitzke
